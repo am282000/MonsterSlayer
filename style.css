@@ -18,6 +18,7 @@ section {
 	width: 90%;
 	max-width: 40rem;
 	margin: auto;
+	border: 1px dotted rgba(8, 200, 248, 0.959);
 }
 
 .healthbar {
