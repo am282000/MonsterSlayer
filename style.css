@@ -59,6 +59,8 @@ section {
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+	border-radius: 12px;
+	box-shadow: 0 2px 8px rgba(3, 250, 36, 0.76);
 }
 
 button {
